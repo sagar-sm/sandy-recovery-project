@@ -6,16 +6,16 @@ Fall 2014: Flying Robotic Journalism.
 
 ###Team:
 
--Ainsley O'Connell
+ * Ainsley O'Connell
 
--Sagar Mohite
+ * Sagar Mohite
 
--Allison Ye
+ * Allison Ye
 
--Kate Godwin
+ * Kate Godwin
 
--Haylee Jung
+ * Haylee Jung
 
--Salem Al-Mansoori
+ * Salem Al-Mansoori
 
 
