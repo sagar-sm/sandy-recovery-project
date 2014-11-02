@@ -1,12 +1,15 @@
 Sandy Recovery Project
 ======================
-
 Fall 2014: Flying Robotic Journalism.
 
-##Possible Shooting Locations
+**[Link to main Wiki Page](https://github.com/sagar-sm/sandy-recovery-project/wiki)**
 
-Photo essay featuring Oakwood Beach, one of the ghost towns: 
-[Oakwood Beach](http://ny.curbed.com/archives/2014/10/29/residents_retreat_from_staten_islands_hardhit_waterfront.php). 
+###Team:
+*Ainsley O'Connell
+*Sagar Mohite
+*Allison Ye
+*Kate Godwin
+*Haylee Jung
+*Salem Al-Mansoori
 
-[Map](https://goo.gl/maps/eThk9)
 
